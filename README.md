@@ -343,3 +343,42 @@ Developed as an academic project to understand backend development, REST API cre
 ## License
 
 This project is created for educational and learning purposes.
+
+
+## postman-get
+<img width="1275" height="799" alt="image" src="https://github.com/user-attachments/assets/cd7de24f-82d1-462c-8dda-8ec492fa3d3b" />
+
+## postman-get-by_id
+<img width="1278" height="799" alt="image" src="https://github.com/user-attachments/assets/03f7bee1-24a0-42f3-91f1-0a2d75c027ed" />
+
+## postman-post
+<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/596f2e24-7c3a-4a0c-8601-1691ad22cef1" />
+
+## postman-put
+<img width="1270" height="797" alt="image" src="https://github.com/user-attachments/assets/9cd0ca9d-8360-472c-8d0c-6a3b221b2454" />
+
+## postman-patch
+<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/7a5a6d4d-6013-4687-9ea9-222a127c0656" />
+
+## postman-delete
+<img width="1277" height="794" alt="image" src="https://github.com/user-attachments/assets/c1c48c89-5f42-45b7-bd1b-9de52d458e5a" />
+
+## postman-low-stock
+<img width="1279" height="798" alt="image" src="https://github.com/user-attachments/assets/ae8add15-3bb9-4cb5-8f7b-3c21a519a90e" />
+
+## postman-category-summary
+<img width="1279" height="793" alt="image" src="https://github.com/user-attachments/assets/dd480313-515d-4593-9782-c37fa9aab5cd" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
